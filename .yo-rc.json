@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.samson.samsoncs"
+    },
+    "jhipsterVersion": "6.0.0",
+    "applicationType": "monolith",
+    "baseName": "samsoncs",
+    "packageName": "com.samson.samsoncs",
+    "packageFolder": "com/samson/samsoncs",
+    "serverPort": "8080",
+    "authenticationType": "session",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "rememberMeKey": "be14251179381ca2ae68a53f5726b18efde7d73ae8b7f80d8de1da17e3d6e27f3ae757dea0d459bba613a382560715b805da",
+    "clientFramework": "react",
+    "clientTheme": "simplex",
+    "clientThemeVariant": "primary",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
